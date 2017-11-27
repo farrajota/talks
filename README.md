@@ -1,3 +1,3 @@
 # talks
 
-Links to talks I've done so far.
+Slides of talks I've done so far.
